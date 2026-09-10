@@ -1,5 +1,5 @@
 
-import {Producto,calcularISV2}  from"./05-desestructuracion-funciones"
+import {type Producto,calcularISV2}  from"./05-desestructuracion-funciones"
 
 const carrito:Producto[]=[
     {
